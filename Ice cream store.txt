@@ -1,0 +1,19 @@
+
+
+Title:"Ice Cream Store"
+
+Description:
+
+   1)Name and Branding: Highlight the store’s name and any unique branding elements like logos, colors, and overall theme.
+
+   2)Location and Atmosphere: Describe where the store is located (e.g., downtown, suburban area) and the ambiance or atmosphere inside (e.g., cozy, retro, modern).
+
+   3)Menu Offerings: Detail the range of ice cream flavors available, including any unique or signature flavors. Mention if there are options for different dietary needs (e.g., dairy-free, vegan).
+
+   4)Specialty Items: Include information about any specialty items, such as sundaes, floats, milkshakes, or ice cream cakes.
+
+ Link:
+
+https://www.figma.com/proto/bfRKFf9IX2171rRFXbGrRl/Ice-Cream-App-UI?node-id=8-207&node-type=FRAME&t=iBHa2afXqThOfp3c-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+   
+  
